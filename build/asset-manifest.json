@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/levantar/build/static/css/main.4982b3da.css",
+    "main.css": "/levantar/build/static/css/main.c35281e5.css",
     "main.js": "/levantar/build/static/js/main.8aa38032.js",
     "static/js/453.828527a3.chunk.js": "/levantar/build/static/js/453.828527a3.chunk.js",
     "static/media/imagen__cambiada.jpg": "/levantar/build/static/media/imagen__cambiada.5f7cead8686750e75a77.jpg",
     "static/media/service-1.svg": "/levantar/build/static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
     "static/media/service-2.svg": "/levantar/build/static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
     "index.html": "/levantar/build/index.html",
-    "main.4982b3da.css.map": "/levantar/build/static/css/main.4982b3da.css.map",
+    "main.c35281e5.css.map": "/levantar/build/static/css/main.c35281e5.css.map",
     "main.8aa38032.js.map": "/levantar/build/static/js/main.8aa38032.js.map",
     "453.828527a3.chunk.js.map": "/levantar/build/static/js/453.828527a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4982b3da.css",
+    "static/css/main.c35281e5.css",
     "static/js/main.8aa38032.js"
   ]
 }
