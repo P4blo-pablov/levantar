@@ -9,7 +9,7 @@ const Home =()=>{
         <section className="home container" id="home">
             <div className="intro">
             <h1 className="home__minombre">PABLO</h1>
-            <h2 className="home__name">HI, QUE TAL</h2>
+            <h2 className="home__name">HI, QUE TAL I'm Pablo</h2>
             <span className="home__education">Soy un estudiante en camino al Front-End</span>
             <HeaderSocials/>
 
