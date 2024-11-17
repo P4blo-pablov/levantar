@@ -1,8 +1,9 @@
 .service__container{
     justify-content: center;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     column-gap: 1.875rem;
 }
+
 .entornos__usados{
     grid-template-columns: repeat(4, 1fr);
     column-gap: 24px;
